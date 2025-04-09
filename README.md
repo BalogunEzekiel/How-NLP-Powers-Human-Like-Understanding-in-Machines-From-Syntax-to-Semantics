@@ -4,7 +4,7 @@
 
 🧠 **NLP Projects Portfolio**
 
-Welcome to my Natural Language Processing (NLP) project — a curated collection of hands-on projects that showcase my skills in text processing, machine learning, and real-world language-based applications. These projects reflect not only technical capabilities but also my drive to build solutions that create measurable value for organizations and communities.
+Welcome to my Natural Language Processing (NLP) projects — a curated collection of hands-on projects that showcase my skills in text processing, machine learning, and real-world language-based applications. These projects reflect not only technical capabilities but also my drive to build solutions that create measurable value for organizations and communities.
 
 🔍 **Projects Included**
 
